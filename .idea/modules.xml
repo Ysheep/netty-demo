@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/kkbsource/java09/java09/13-Netty/netty录播课程资料/代码/01-primary/01-primary.iml" filepath="F:/kkbsource/java09/java09/13-Netty/netty录播课程资料/代码/01-primary/01-primary.iml" />
+      <module fileurl="file://F:/kkbsource/java09/java09/13-Netty/netty录播课程资料/代码/01-primary2/01-primary2.iml" filepath="F:/kkbsource/java09/java09/13-Netty/netty录播课程资料/代码/01-primary2/01-primary2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-stickybag/03-stickybag.iml" filepath="$PROJECT_DIR$/03-stickybag/03-stickybag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-unpacking/03-unpacking.iml" filepath="$PROJECT_DIR$/03-unpacking/03-unpacking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-DelimiterBasedFrameDecoder/03-unpacking (1).iml" filepath="$PROJECT_DIR$/04-DelimiterBasedFrameDecoder/03-unpacking (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-DelimiterBasedFrameDecoder/04-DelimiterBasedFrameDecoder.iml" filepath="$PROJECT_DIR$/04-DelimiterBasedFrameDecoder/04-DelimiterBasedFrameDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-FixedLengthFrameDecoder/04-FixedLengthFrameDecoder.iml" filepath="$PROJECT_DIR$/04-FixedLengthFrameDecoder/04-FixedLengthFrameDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-LineBasedFrameDecoder/04-LineBasedFrameDecoder.iml" filepath="$PROJECT_DIR$/04-LineBasedFrameDecoder/04-LineBasedFrameDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-websocket/05-websocket.iml" filepath="$PROJECT_DIR$/05-websocket/05-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-webchat/06-webchat.iml" filepath="$PROJECT_DIR$/06-webchat/06-webchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-idle/07-idle.iml" filepath="$PROJECT_DIR$/07-idle/07-idle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-rpc-api/10-rpc-api.iml" filepath="$PROJECT_DIR$/10-rpc-api/10-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-rpc-client/10-rpc-client.iml" filepath="$PROJECT_DIR$/10-rpc-client/10-rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-rpc-server/10-rpc-server.iml" filepath="$PROJECT_DIR$/10-rpc-server/10-rpc-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-dubbo/11-dubbo.iml" filepath="$PROJECT_DIR$/11-dubbo/11-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-dubbo/11-dubbo-api/11-dubbo-api.iml" filepath="$PROJECT_DIR$/11-dubbo/11-dubbo-api/11-dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-dubbo/11-dubbo-client/11-dubbo-client.iml" filepath="$PROJECT_DIR$/11-dubbo/11-dubbo-client/11-dubbo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-dubbo/11-dubbo-server/11-dubbo-server.iml" filepath="$PROJECT_DIR$/11-dubbo/11-dubbo-server/11-dubbo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LengthFieldBasedFrameDecoder/LengthFieldBasedFrameDecoder.iml" filepath="$PROJECT_DIR$/LengthFieldBasedFrameDecoder/LengthFieldBasedFrameDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty.iml" filepath="$PROJECT_DIR$/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/netty-client/netty-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/netty-server/netty-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="F:/kkbsource/java09/java09/13-Netty/netty录播课程资料/代码/01-primary/pom.xml" />
+        <option value="F:/kkbsource/java09/java09/13-Netty/netty录播课程资料/代码/01-primary2/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-server/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-client/pom.xml" />
+        <option value="$PROJECT_DIR$/03-unpacking/pom.xml" />
+        <option value="$PROJECT_DIR$/03-stickybag/pom.xml" />
+        <option value="$PROJECT_DIR$/04-LineBasedFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/04-DelimiterBasedFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/04-FixedLengthFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/LengthFieldBaseFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/05-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/_06webchat/pom.xml" />
+        <option value="$PROJECT_DIR$/07-dile/pom.xml" />
+        <option value="$PROJECT_DIR$/07-idle/pom.xml" />
+        <option value="$PROJECT_DIR$/06-webchat/pom.xml" />
+        <option value="$PROJECT_DIR$/10-rpc-api/pom.xml" />
+        <option value="$PROJECT_DIR$/10-rpc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/10-rpc-client/pom.xml" />
+        <option value="$PROJECT_DIR$/11-dubbo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

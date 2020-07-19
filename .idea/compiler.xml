@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-LineBasedFrameDecoder" />
+        <module name="04-DelimiterBasedFrameDecoder" />
+        <module name="11-dubbo-client" />
+        <module name="01-primary2" />
+        <module name="04-FixedLengthFrameDecoder" />
+        <module name="10-rpc-server" />
+        <module name="netty-server" />
+        <module name="11-dubbo-api" />
+        <module name="03-stickybag" />
+        <module name="11-dubbo-server" />
+        <module name="03-unpacking (1)" />
+        <module name="06-webchat" />
+        <module name="01-primary" />
+        <module name="03-unpacking" />
+        <module name="05-websocket" />
+        <module name="10-rpc-api" />
+        <module name="LengthFieldBasedFrameDecoder" />
+        <module name="07-idle" />
+        <module name="10-rpc-client" />
+        <module name="netty-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="01-primary" target="1.8" />
+      <module name="01-primary2" target="1.8" />
+      <module name="03-stickybag" target="1.8" />
+      <module name="03-unpacking" target="1.8" />
+      <module name="04-DelimiterBasedFrameDecoder" target="1.8" />
+      <module name="04-FixedLengthFrameDecoder" target="1.8" />
+      <module name="04-LineBasedFrameDecoder" target="1.8" />
+      <module name="05-websocket" target="1.8" />
+      <module name="06-webchat" target="1.8" />
+      <module name="07-idle" target="1.8" />
+      <module name="10-rpc-api" target="1.8" />
+      <module name="10-rpc-client" target="1.8" />
+      <module name="10-rpc-server" target="1.8" />
+      <module name="11-dubbo" target="1.8" />
+      <module name="11-dubbo-api" target="1.8" />
+      <module name="11-dubbo-client" target="1.8" />
+      <module name="11-dubbo-server" target="1.8" />
+      <module name="LengthFieldBasedFrameDecoder" target="8" />
+      <module name="netty-client" target="1.8" />
+      <module name="netty-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
